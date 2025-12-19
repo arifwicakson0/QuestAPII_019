@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.tugas12"
+    namespace = "com.example.tugas"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.tugas12"
+        applicationId = "com.example.tugas"
         minSdk = 30
         targetSdk = 36
         versionCode = 1
